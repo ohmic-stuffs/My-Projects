@@ -1,3 +1,5 @@
+pip install periodictable
+
 import periodictable
 #getting details
 Atomic_No =int(input("Enter Atomic Number :"))
